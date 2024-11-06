@@ -13,6 +13,7 @@ server/node_modules
 server/package-lock.json
 server/uploads/
 server/temp/
+server/chunks/*/
 server/models/*/
 dist
 dist-ssr
