@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Wake Word Detection",
+    "description": "This model detects a custom wake word which we can set.",
+    "model_dir": "wake-word",
+    "id": "m32bip3p7wpt8c44ca8"
+  },
+  {
+    "name": "Typical-Atypical Stutter Detection Model",
+    "description": "This model detects the stutter type of a person.",
+    "model_dir": "BTP",
+    "id": "m35j1lp1akd10n9xlx"
+  }
+]
